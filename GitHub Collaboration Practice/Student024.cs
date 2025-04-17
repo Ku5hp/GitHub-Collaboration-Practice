@@ -8,5 +8,12 @@ namespace GitHub_Collaboration_Practice
 {
     internal class Student024
     {
+        public static void Shiva()
+        {
+            
+        }
+          
     }
+    
+
 }
